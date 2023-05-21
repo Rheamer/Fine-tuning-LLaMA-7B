@@ -25,3 +25,5 @@ Contributions to this project are welcome. If you encounter any issues or have s
 ## Acknowledgments
 
 We would like to acknowledge the contributions of the open-source community and the developers of the libraries and tools used in this project. Their efforts and dedication are greatly appreciated.
+
+## Special thanks to [IlyaGusev/rulm](https://github.com/IlyaGusev/rulm)
